@@ -18,7 +18,7 @@ I’m looking to collaborate on Blockchain & FinTech projects.
 
 
 
-### Languages, Frameworks and Tool
+### Languages, Frameworks and Tools
 <img width="64" alt="Postgres" src="https://user-images.githubusercontent.com/70669412/192141835-1dfcf4cc-e483-4c9d-8707-8fd3fdc57387.png">   <img width="64" alt="Linux" src="https://user-images.githubusercontent.com/70669412/192141864-5a586603-97bd-43cf-b44d-7fc9cb03e03e.png">    <img width="115" alt="MySQL" src="https://user-images.githubusercontent.com/70669412/192141892-1535e561-f34e-4ad3-b132-af4b3db14587.png">    <img width="115" alt="NodeJS" src="https://user-images.githubusercontent.com/70669412/192141919-38efc2f4-f625-4f0f-aeed-9986472fd687.png">   <img width="64" alt="React" src="https://user-images.githubusercontent.com/70669412/192142044-695d5a74-4672-4526-8246-8cd216e74967.png">    <img width="64" alt="JavaScript" src="https://user-images.githubusercontent.com/70669412/192142085-42959a21-721b-4d47-a480-aeef3aef5b64.png">   <img width="64" alt="Serverless" src="https://user-images.githubusercontent.com/70669412/192142705-e5bf064c-d387-4994-83b9-ad8d7adb3e75.png">    <img width="100" alt="Auth0" src="https://user-images.githubusercontent.com/70669412/192142724-1b0ddbfa-f7f5-4ad7-aabf-5fc3a670e23b.png">    <img width="115" alt="Hyperledger Fabric" src="https://user-images.githubusercontent.com/70669412/192142874-cc08814b-6e63-4a05-be9d-7a6c57dbd9de.png">
 
 
