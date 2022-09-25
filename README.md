@@ -8,7 +8,7 @@ I'm a **Senior Network and Service Architect** with +10 years experience in Tier
 
 🌱 I’m currently learning Cloud Development (ALX-T Cloud Developer offered by ALX and Udacity) with skills on Cloud, API, serverless and DevOps.
 
-💞️ I'm my part time I'm teaching Blockchain, Cloud and Big Data Platform to publics and private schools.
+💞️ I'm my part time I'm teaching Blockchain, Cloud and Big Data Platform to public and private schools.
 I’m looking to collaborate on Blockchain & FinTech projects.
 
 📫 You can reach me on Twitter (@tinepapa) or LinkedIn (https://www.linkedin.com/in/papambaye)
