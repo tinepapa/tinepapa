@@ -4,7 +4,7 @@
 
 I'm a **Senior Network and Service Architect** with +10 years experience in Tier 1 service provider and Telco equipements provider.
 
-👀 I’m interested in Blockhain/FinTech, Cloud Computing and microservices applications.
+👀 I’m interested in Blockchain/FinTech, Cloud Computing and microservices applications.
 
 🌱 I’m currently learning Cloud Development (ALX-T Cloud Developer offered by ALX and Udacity) with skills on Cloud, API, serverless and DevOps.
 
