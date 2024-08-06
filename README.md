@@ -2,7 +2,7 @@
 
 ### Happy to see your here !
 
-I'm a **Senior Network and Service Architect** with +12 years experience in Tier 1 service provider and Telco equipements provider.
+I'm a **Senior Network and Service Architect** with ~14 years experience in Tier 1 service provider and Telco equipements provider.
 
 👀 I’m interested in Blockchain/Web3/Metaverse, FinTech, Cloud Computing and microservices applications.
 
